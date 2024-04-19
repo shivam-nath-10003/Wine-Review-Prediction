@@ -36,8 +36,11 @@ The dataset used for this project is sourced from [Kaggle](https://www.kaggle.co
 
 ## Author
 
+
+
 Shivam Nath
 
 Clone the repository: https://github.com/shivam-nath-10003/Wine-Review-Prediction.git
+Due to large size of data file, i was not able to upload it, feel free to go to the source mentioned and download it. 
 
 
