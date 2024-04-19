@@ -16,6 +16,7 @@ WineReviewPrediction tackles the challenge of predicting wine quality based on t
 ## Dataset
 
 This project uses a comprehensive dataset sourced from Kaggle, featuring diverse wine reviews with descriptions, points, and more.
+The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/zynicide/wine-reviews).
 
 ## Usage
 
