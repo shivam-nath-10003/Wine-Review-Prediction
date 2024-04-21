@@ -1,4 +1,4 @@
-# Wine-Review-Prediction
+# Wine-Review-Prediction 🍷
 
 Predicting wine quality from reviews using machine learning models.
 
